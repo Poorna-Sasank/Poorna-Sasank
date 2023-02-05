@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Poorna Sasank
-- 👀 I’m interested in Robotics and Artificial Intelligence
+- 👀 I’m interested in Autonomous Robots 
 - 🌱 I’m currently learning ROS
 - 💞️ I’m looking to collaborate on anything related to Robotics
 - 📫 Reach me at poorna.sesetti03@gmail.com
