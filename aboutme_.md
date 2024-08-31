@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Poorna Sasank
-- 👀 I’m interested in Autonomous Robots 
-- 🌱 I’m currently learning ROS
-- 💞️ I’m looking to collaborate on anything related to Robotics
+- 👀 I’m interested in Robot Design & Control
+- 🌱 I’m currently working on developing a Novel Robotic Mechanism
+- 💞️ I’m looking to collaborate on anything related to Drones, Mobile Robots, Mechanism Design, DL/ML
 - 📫 Reach me at poorna.sesetti03@gmail.com
 
 <!---
